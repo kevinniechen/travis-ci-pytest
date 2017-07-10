@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/kevchn/travis-ci-pytest.svg?branch=master)](https://travis-ci.org/kevchn/travis-ci-pytest)
+
 # Travis CI and pytest Hello World 
 A simple 'Hello World' fibonacci project I created to quickly try out pytest and Travis CI 
 
