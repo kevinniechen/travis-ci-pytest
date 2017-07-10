@@ -1,0 +1,4 @@
+.DS_Store
+*.egg-info
+venv/
+.py_cache
