@@ -1,5 +1,5 @@
-# pytest and Travis CI
-Simple 'Hello World' fibonacci  project for pytest and Travis CI 
+# Travis CI and pytest Hello World 
+A simple 'Hello World' fibonacci project I created to quickly try out pytest and Travis CI 
 
 Links:
  * [Pytest Directory Structure](https://blog.ionelmc.ro/2014/05/25/python-packaging/#the-structure)
